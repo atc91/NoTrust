@@ -9,13 +9,6 @@ NoTrust is lightweight app for understand Java Security API. You can:
 ### Version
 1.0
 
-### Tech
-
-NoTrust was coded using this tecnologies:
-
-* [Maven]
-* [Netbeans]
-
 ### Run
 
 NoTrust requires [Java SDK](http://www.oracle.com/technetwork/es/java/javase/downloads/index.html) v1.8+ to run.
